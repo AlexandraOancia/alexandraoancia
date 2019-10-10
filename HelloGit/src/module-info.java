@@ -1,6 +1,0 @@
-module HelloGit {
-	class alexandra{
-		
-	}
-	
-}
