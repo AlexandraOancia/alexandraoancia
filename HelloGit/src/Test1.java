@@ -5,7 +5,7 @@ public class Test1 {
 	public String Siret;
 	public int Namee;
 	
-	public String RevertCommit1; 
-	public String RevertComit2;
+	public String RevertCommit; 
+	public String RevertCommit2;
 
 }
