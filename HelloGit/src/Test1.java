@@ -9,8 +9,6 @@ public class Test1 {
 	public String RevertCommit2;
 	
 	
-	
-
 	public String RevertCommit5;
 	
 
