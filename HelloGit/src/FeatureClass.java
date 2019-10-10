@@ -1,5 +1,5 @@
 
 public class FeatureClass {
 	public int Nom;
-	//Test conflict Feature
+	//Test conflict Feature added feature
 }
